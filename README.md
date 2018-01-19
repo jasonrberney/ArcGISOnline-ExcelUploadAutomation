@@ -9,6 +9,8 @@ before adding it to a web map.
 Enjoy!
 
 # Script Execution
+```
 Please make sure to input a workspace in the 'AGOLexcelUpload.py' file. 
 Install Python libraries:
 arcpy, openpyxl
+```
